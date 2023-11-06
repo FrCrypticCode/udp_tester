@@ -1,5 +1,4 @@
 # udp_tester
-
-UDP Tester make in Rust
+UDP Tester, for testing and UD¨P exchange
 
 Using crates eframe, egui, tokio
